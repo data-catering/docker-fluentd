@@ -31,7 +31,9 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: datacatering/fluentd-elasticsearch:${{ env.VERSION }}
-          build-args: "FLUENTD_VERSION=${{ env.VERSION }},PLUGIN_ELASTICSEARCH_VERSION=${{ env.PLUGIN_ELASTICSEARCH_VERSION }}"
+          build-args: |
+            FLUENTD_VERSION=${{ env.VERSION }}
+            PLUGIN_ELASTICSEARCH_VERSION=${{ env.PLUGIN_ELASTICSEARCH_VERSION }}"
       - name: Build and push - gcs
         uses: docker/build-push-action@v6
         with:
@@ -39,4 +41,6 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: datacatering/fluentd-gcs:${{ env.VERSION }}
-          build-args: "FLUENTD_VERSION=${{ env.VERSION }},PLUGIN_GCS_VERSION=${{ env.PLUGIN_GCS_VERSION }}"
+          build-args: |
+            FLUENTD_VERSION=${{ env.VERSION }}
+            PLUGIN_GCS_VERSION=${{ env.PLUGIN_GCS_VERSION }}"
