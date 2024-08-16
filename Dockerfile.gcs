@@ -2,5 +2,6 @@ ARG FLUENTD_VERSION=v1.17.0-debian-1.0
 FROM fluent/fluentd:${FLUENTD_VERSION}
 USER root
 ARG PLUGIN_GCS_VERSION=0.13.1
-RUN gem install fluent-plugin-google-cloud --no-document -v $PLUGIN_GCS_VERSION
+RUN gem update --system &&
+    gem install fluent-plugin-google-cloud --no-document -v $PLUGIN_GCS_VERSION
 USER fluent
