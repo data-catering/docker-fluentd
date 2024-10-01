@@ -1,0 +1,12 @@
+name: Get data catering docker hub stats each day
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get docker hub stats via script
+        run: bash script/docker-hub-stats.sh
