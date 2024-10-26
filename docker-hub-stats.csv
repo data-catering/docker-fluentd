@@ -206,3 +206,12 @@ date,image_name,pull_count
 2024-10-25,polaris,48
 2024-10-25,neo4j,107
 2024-10-25,fluentd-elasticsearch,52
+2024-10-26,data-caterer,1660
+2024-10-26,duckdb,1470
+2024-10-26,dse-server,213
+2024-10-26,dse-base,53
+2024-10-26,unitycatalog,2370
+2024-10-26,maestro,104
+2024-10-26,polaris,49
+2024-10-26,neo4j,108
+2024-10-26,fluentd-elasticsearch,53
