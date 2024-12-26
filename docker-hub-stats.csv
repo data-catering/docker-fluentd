@@ -755,3 +755,12 @@ date,image_name,pull_count
 2024-12-25,polaris,114
 2024-12-25,neo4j,176
 2024-12-25,fluentd-elasticsearch,114
+2024-12-26,data-caterer,2478
+2024-12-26,duckdb,2333
+2024-12-26,dse-server,281
+2024-12-26,dse-base,57
+2024-12-26,unitycatalog,8696
+2024-12-26,maestro,168
+2024-12-26,polaris,115
+2024-12-26,neo4j,177
+2024-12-26,fluentd-elasticsearch,115
