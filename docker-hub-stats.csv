@@ -800,3 +800,12 @@ date,image_name,pull_count
 2024-12-30,polaris,119
 2024-12-30,neo4j,182
 2024-12-30,fluentd-elasticsearch,119
+2024-12-31,data-caterer,2526
+2024-12-31,duckdb,2380
+2024-12-31,dse-server,288
+2024-12-31,dse-base,59
+2024-12-31,unitycatalog,8822
+2024-12-31,maestro,174
+2024-12-31,polaris,121
+2024-12-31,neo4j,183
+2024-12-31,fluentd-elasticsearch,120
