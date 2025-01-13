@@ -917,3 +917,12 @@ date,image_name,pull_count
 2025-01-12,polaris,132
 2025-01-12,neo4j,194
 2025-01-12,fluentd-elasticsearch,131
+2025-01-13,data-caterer,2551
+2025-01-13,duckdb,2511
+2025-01-13,dse-server,300
+2025-01-13,dse-base,59
+2025-01-13,unitycatalog,9152
+2025-01-13,maestro,186
+2025-01-13,polaris,133
+2025-01-13,neo4j,195
+2025-01-13,fluentd-elasticsearch,132
