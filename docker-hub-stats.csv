@@ -971,3 +971,12 @@ date,image_name,pull_count
 2025-01-18,polaris,137
 2025-01-18,neo4j,199
 2025-01-18,fluentd-elasticsearch,136
+2025-01-19,data-caterer,2582
+2025-01-19,duckdb,2606
+2025-01-19,dse-server,304
+2025-01-19,dse-base,59
+2025-01-19,unitycatalog,9304
+2025-01-19,maestro,190
+2025-01-19,polaris,137
+2025-01-19,neo4j,200
+2025-01-19,fluentd-elasticsearch,136
