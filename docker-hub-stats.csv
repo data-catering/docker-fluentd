@@ -1178,3 +1178,12 @@ date,image_name,pull_count
 2025-02-10,polaris,157
 2025-02-10,neo4j,219
 2025-02-10,fluentd-elasticsearch,156
+2025-02-11,data-caterer,2679
+2025-02-11,duckdb,2908
+2025-02-11,dse-server,324
+2025-02-11,dse-base,60
+2025-02-11,unitycatalog,9943
+2025-02-11,maestro,214
+2025-02-11,polaris,157
+2025-02-11,neo4j,219
+2025-02-11,fluentd-elasticsearch,156
