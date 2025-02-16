@@ -1223,3 +1223,12 @@ date,image_name,pull_count
 2025-02-15,polaris,161
 2025-02-15,neo4j,223
 2025-02-15,fluentd-elasticsearch,160
+2025-02-16,data-caterer,2686
+2025-02-16,duckdb,2973
+2025-02-16,dse-server,329
+2025-02-16,dse-base,60
+2025-02-16,unitycatalog,10097
+2025-02-16,maestro,222
+2025-02-16,polaris,162
+2025-02-16,neo4j,224
+2025-02-16,fluentd-elasticsearch,161
