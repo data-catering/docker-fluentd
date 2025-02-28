@@ -1331,3 +1331,12 @@ date,image_name,pull_count
 2025-02-27,polaris,178
 2025-02-27,neo4j,240
 2025-02-27,fluentd-elasticsearch,177
+2025-02-28,data-caterer,2743
+2025-02-28,duckdb,3168
+2025-02-28,dse-server,349
+2025-02-28,dse-base,60
+2025-02-28,unitycatalog,10470
+2025-02-28,maestro,240
+2025-02-28,polaris,179
+2025-02-28,neo4j,243
+2025-02-28,fluentd-elasticsearch,178
