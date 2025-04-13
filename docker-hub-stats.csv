@@ -1727,3 +1727,12 @@ date,image_name,pull_count
 2025-04-12,polaris,221
 2025-04-12,neo4j,293
 2025-04-12,fluentd-elasticsearch,235
+2025-04-13,data-caterer,3283
+2025-04-13,duckdb,4806
+2025-04-13,dse-server,411
+2025-04-13,dse-base,60
+2025-04-13,unitycatalog,11130
+2025-04-13,maestro,299
+2025-04-13,polaris,222
+2025-04-13,neo4j,294
+2025-04-13,fluentd-elasticsearch,236
