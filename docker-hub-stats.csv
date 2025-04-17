@@ -1763,3 +1763,12 @@ date,image_name,pull_count
 2025-04-16,polaris,225
 2025-04-16,neo4j,296
 2025-04-16,fluentd-elasticsearch,238
+2025-04-17,data-caterer,3286
+2025-04-17,duckdb,4918
+2025-04-17,dse-server,415
+2025-04-17,dse-base,60
+2025-04-17,unitycatalog,11136
+2025-04-17,maestro,302
+2025-04-17,polaris,226
+2025-04-17,neo4j,297
+2025-04-17,fluentd-elasticsearch,239
