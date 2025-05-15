@@ -2015,3 +2015,12 @@ date,image_name,pull_count
 2025-05-14,polaris,338
 2025-05-14,neo4j,411
 2025-05-14,fluentd-elasticsearch,351
+2025-05-15,data-caterer,3419
+2025-05-15,duckdb,5815
+2025-05-15,dse-server,555
+2025-05-15,dse-base,60
+2025-05-15,unitycatalog,11280
+2025-05-15,maestro,419
+2025-05-15,polaris,343
+2025-05-15,neo4j,416
+2025-05-15,fluentd-elasticsearch,356
