@@ -2231,3 +2231,12 @@ date,image_name,pull_count
 2025-06-07,polaris,470
 2025-06-07,neo4j,547
 2025-06-07,fluentd-elasticsearch,485
+2025-06-08,data-caterer,3553
+2025-06-08,duckdb,7202
+2025-06-08,dse-server,692
+2025-06-08,dse-base,60
+2025-06-08,unitycatalog,11422
+2025-06-08,maestro,554
+2025-06-08,polaris,476
+2025-06-08,neo4j,553
+2025-06-08,fluentd-elasticsearch,491
