@@ -2384,3 +2384,12 @@ date,image_name,pull_count
 2025-06-24,polaris,565
 2025-06-24,neo4j,640
 2025-06-24,fluentd-elasticsearch,579
+2025-06-25,data-caterer,3790
+2025-06-25,duckdb,8053
+2025-06-25,dse-server,782
+2025-06-25,dse-base,60
+2025-06-25,unitycatalog,11516
+2025-06-25,maestro,645
+2025-06-25,polaris,569
+2025-06-25,neo4j,644
+2025-06-25,fluentd-elasticsearch,583
