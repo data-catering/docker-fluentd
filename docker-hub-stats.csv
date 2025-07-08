@@ -2501,3 +2501,12 @@ date,image_name,pull_count
 2025-07-07,polaris,632
 2025-07-07,neo4j,707
 2025-07-07,fluentd-elasticsearch,647
+2025-07-08,data-caterer,3872
+2025-07-08,duckdb,8856
+2025-07-08,dse-server,850
+2025-07-08,dse-base,60
+2025-07-08,unitycatalog,11587
+2025-07-08,maestro,716
+2025-07-08,polaris,639
+2025-07-08,neo4j,713
+2025-07-08,fluentd-elasticsearch,653
