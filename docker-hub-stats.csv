@@ -2826,3 +2826,12 @@ date,image_name,pull_count
 2025-08-13,polaris,815
 2025-08-13,neo4j,900
 2025-08-13,fluentd-elasticsearch,826
+2025-08-14,data-caterer,4195
+2025-08-14,duckdb,11344
+2025-08-14,dse-server,1030
+2025-08-14,dse-base,61
+2025-08-14,unitycatalog,11767
+2025-08-14,maestro,899
+2025-08-14,polaris,820
+2025-08-14,neo4j,905
+2025-08-14,fluentd-elasticsearch,831
