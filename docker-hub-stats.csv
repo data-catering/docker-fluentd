@@ -3456,3 +3456,12 @@ date,image_name,pull_count
 2025-10-22,polaris,1146
 2025-10-22,neo4j,1231
 2025-10-22,fluentd-elasticsearch,1159
+2025-10-23,data-caterer,5382
+2025-10-23,duckdb,22702
+2025-10-23,dse-server,1356
+2025-10-23,dse-base,62
+2025-10-23,unitycatalog,12102
+2025-10-23,maestro,1225
+2025-10-23,polaris,1147
+2025-10-23,neo4j,1232
+2025-10-23,fluentd-elasticsearch,1160
