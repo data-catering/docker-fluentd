@@ -3807,3 +3807,12 @@ date,image_name,pull_count
 2025-11-30,polaris,1184
 2025-11-30,neo4j,1262
 2025-11-30,fluentd-elasticsearch,1190
+2025-12-01,data-caterer,5647
+2025-12-01,duckdb,34551
+2025-12-01,dse-server,1389
+2025-12-01,dse-base,63
+2025-12-01,unitycatalog,12134
+2025-12-01,maestro,1256
+2025-12-01,polaris,1185
+2025-12-01,neo4j,1263
+2025-12-01,fluentd-elasticsearch,1191
