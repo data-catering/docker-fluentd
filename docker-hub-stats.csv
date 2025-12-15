@@ -3933,3 +3933,12 @@ date,image_name,pull_count
 2025-12-14,polaris,1197
 2025-12-14,neo4j,1275
 2025-12-14,fluentd-elasticsearch,1203
+2025-12-15,data-caterer,5939
+2025-12-15,duckdb,38291
+2025-12-15,dse-server,1402
+2025-12-15,dse-base,63
+2025-12-15,unitycatalog,12147
+2025-12-15,maestro,1270
+2025-12-15,polaris,1198
+2025-12-15,neo4j,1276
+2025-12-15,fluentd-elasticsearch,1204
