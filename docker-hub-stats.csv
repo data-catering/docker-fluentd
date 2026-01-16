@@ -4221,3 +4221,12 @@ date,image_name,pull_count
 2026-01-15,polaris,1227
 2026-01-15,neo4j,1305
 2026-01-15,fluentd-elasticsearch,1233
+2026-01-16,data-caterer,6099
+2026-01-16,duckdb,46756
+2026-01-16,dse-server,1432
+2026-01-16,dse-base,68
+2026-01-16,unitycatalog,12178
+2026-01-16,maestro,1303
+2026-01-16,polaris,1228
+2026-01-16,neo4j,1306
+2026-01-16,fluentd-elasticsearch,1234
