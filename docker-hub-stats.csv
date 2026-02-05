@@ -4401,3 +4401,12 @@ date,image_name,pull_count
 2026-02-04,polaris,1246
 2026-02-04,neo4j,1325
 2026-02-04,fluentd-elasticsearch,1254
+2026-02-05,data-caterer,6311
+2026-02-05,duckdb,57440
+2026-02-05,dse-server,1451
+2026-02-05,dse-base,77
+2026-02-05,unitycatalog,12199
+2026-02-05,maestro,1322
+2026-02-05,polaris,1247
+2026-02-05,neo4j,1326
+2026-02-05,fluentd-elasticsearch,1255
