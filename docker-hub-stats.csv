@@ -4626,3 +4626,12 @@ date,image_name,pull_count
 2026-03-01,polaris,1271
 2026-03-01,neo4j,1349
 2026-03-01,fluentd-elasticsearch,1278
+2026-03-02,data-caterer,6636
+2026-03-02,duckdb,73139
+2026-03-02,dse-server,1475
+2026-03-02,dse-base,89
+2026-03-02,unitycatalog,12227
+2026-03-02,maestro,1347
+2026-03-02,polaris,1272
+2026-03-02,neo4j,1350
+2026-03-02,fluentd-elasticsearch,1279
