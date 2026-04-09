@@ -4968,3 +4968,12 @@ date,image_name,pull_count
 2026-04-08,polaris,1317
 2026-04-08,neo4j,1407
 2026-04-08,fluentd-elasticsearch,1337
+2026-04-09,data-caterer,7301
+2026-04-09,duckdb,120205
+2026-04-09,dse-server,1548
+2026-04-09,dse-base,132
+2026-04-09,unitycatalog,12288
+2026-04-09,maestro,1401
+2026-04-09,polaris,1323
+2026-04-09,neo4j,1411
+2026-04-09,fluentd-elasticsearch,1343
