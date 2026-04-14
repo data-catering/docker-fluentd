@@ -5013,3 +5013,12 @@ date,image_name,pull_count
 2026-04-13,polaris,1326
 2026-04-13,neo4j,1413
 2026-04-13,fluentd-elasticsearch,1345
+2026-04-14,data-caterer,7309
+2026-04-14,duckdb,126495
+2026-04-14,dse-server,1550
+2026-04-14,dse-base,133
+2026-04-14,unitycatalog,12291
+2026-04-14,maestro,1403
+2026-04-14,polaris,1326
+2026-04-14,neo4j,1413
+2026-04-14,fluentd-elasticsearch,1345
