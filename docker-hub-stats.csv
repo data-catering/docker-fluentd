@@ -5274,3 +5274,12 @@ date,image_name,pull_count
 2026-05-12,polaris,1378
 2026-05-12,neo4j,1474
 2026-05-12,fluentd-elasticsearch,1392
+2026-05-13,data-caterer,7758
+2026-05-13,duckdb,164363
+2026-05-13,dse-server,1596
+2026-05-13,dse-base,147
+2026-05-13,unitycatalog,12335
+2026-05-13,maestro,1451
+2026-05-13,polaris,1379
+2026-05-13,neo4j,1475
+2026-05-13,fluentd-elasticsearch,1393
