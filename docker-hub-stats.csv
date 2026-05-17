@@ -5310,3 +5310,12 @@ date,image_name,pull_count
 2026-05-16,polaris,1382
 2026-05-16,neo4j,1478
 2026-05-16,fluentd-elasticsearch,1396
+2026-05-17,data-caterer,7788
+2026-05-17,duckdb,169955
+2026-05-17,dse-server,1602
+2026-05-17,dse-base,149
+2026-05-17,unitycatalog,12340
+2026-05-17,maestro,1457
+2026-05-17,polaris,1384
+2026-05-17,neo4j,1481
+2026-05-17,fluentd-elasticsearch,1399
