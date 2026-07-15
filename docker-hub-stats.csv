@@ -5841,3 +5841,12 @@ date,image_name,pull_count
 2026-07-14,polaris,1442
 2026-07-14,neo4j,1545
 2026-07-14,fluentd-elasticsearch,1460
+2026-07-15,data-caterer,8083
+2026-07-15,duckdb,275653
+2026-07-15,dse-server,1675
+2026-07-15,dse-base,157
+2026-07-15,unitycatalog,12400
+2026-07-15,maestro,1519
+2026-07-15,polaris,1443
+2026-07-15,neo4j,1546
+2026-07-15,fluentd-elasticsearch,1461
