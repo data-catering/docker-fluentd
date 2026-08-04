@@ -6021,3 +6021,12 @@ date,image_name,pull_count
 2026-08-03,polaris,1471
 2026-08-03,neo4j,1577
 2026-08-03,fluentd-elasticsearch,1489
+2026-08-04,data-caterer,8950
+2026-08-04,duckdb,302280
+2026-08-04,dse-server,1707
+2026-08-04,dse-base,269
+2026-08-04,unitycatalog,12426
+2026-08-04,maestro,1544
+2026-08-04,polaris,1472
+2026-08-04,neo4j,1578
+2026-08-04,fluentd-elasticsearch,1490
