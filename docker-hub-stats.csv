@@ -6219,3 +6219,12 @@ date,image_name,pull_count
 2026-08-25,polaris,1552
 2026-08-25,neo4j,1634
 2026-08-25,fluentd-elasticsearch,1529
+2026-08-26,data-caterer,9675
+2026-08-26,duckdb,330704
+2026-08-26,dse-server,1769
+2026-08-26,dse-base,312
+2026-08-26,unitycatalog,12464
+2026-08-26,maestro,1591
+2026-08-26,polaris,1557
+2026-08-26,neo4j,1635
+2026-08-26,fluentd-elasticsearch,1530
