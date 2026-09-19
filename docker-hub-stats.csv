@@ -6435,3 +6435,12 @@ date,image_name,pull_count
 2026-09-18,polaris,1647
 2026-09-18,neo4j,1679
 2026-09-18,fluentd-elasticsearch,1622
+2026-09-19,data-caterer,9905
+2026-09-19,duckdb,357736
+2026-09-19,dse-server,1803
+2026-09-19,dse-base,348
+2026-09-19,unitycatalog,12499
+2026-09-19,maestro,1662
+2026-09-19,polaris,1648
+2026-09-19,neo4j,1680
+2026-09-19,fluentd-elasticsearch,1623
