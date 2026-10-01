@@ -6543,3 +6543,12 @@ date,image_name,pull_count
 2026-09-30,polaris,1660
 2026-09-30,neo4j,1693
 2026-09-30,fluentd-elasticsearch,1643
+2026-10-01,data-caterer,9941
+2026-10-01,duckdb,372381
+2026-10-01,dse-server,1812
+2026-10-01,dse-base,353
+2026-10-01,unitycatalog,12509
+2026-10-01,maestro,1671
+2026-10-01,polaris,1660
+2026-10-01,neo4j,1693
+2026-10-01,fluentd-elasticsearch,1643
