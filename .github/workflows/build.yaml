@@ -25,7 +25,7 @@ jobs:
           username: ${{ secrets.DOCKER_HUB_USER }}
           password: ${{ secrets.DOCKER_HUB_TOKEN }}
       - name: Build and push - elasticsearch
-        uses: docker/build-push-action@v6
+        uses: docker/build-push-action@v7
         with:
           file: "./Dockerfile.elasticsearch"
           platforms: linux/amd64,linux/arm64
