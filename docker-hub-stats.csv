@@ -6957,3 +6957,12 @@ date,image_name,pull_count
 2026-11-15,polaris,1740
 2026-11-15,neo4j,1766
 2026-11-15,fluentd-elasticsearch,1743
+2026-11-16,data-caterer,11051
+2026-11-16,duckdb,433554
+2026-11-16,dse-server,1895
+2026-11-16,dse-base,429
+2026-11-16,unitycatalog,12569
+2026-11-16,maestro,1854
+2026-11-16,polaris,1741
+2026-11-16,neo4j,1767
+2026-11-16,fluentd-elasticsearch,1744
