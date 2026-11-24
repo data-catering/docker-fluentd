@@ -7029,3 +7029,12 @@ date,image_name,pull_count
 2026-11-23,polaris,1759
 2026-11-23,neo4j,1777
 2026-11-23,fluentd-elasticsearch,1762
+2026-11-24,data-caterer,11412
+2026-11-24,duckdb,446969
+2026-11-24,dse-server,1916
+2026-11-24,dse-base,450
+2026-11-24,unitycatalog,12582
+2026-11-24,maestro,1885
+2026-11-24,polaris,1760
+2026-11-24,neo4j,1778
+2026-11-24,fluentd-elasticsearch,1763
