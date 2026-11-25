@@ -7038,3 +7038,12 @@ date,image_name,pull_count
 2026-11-24,polaris,1760
 2026-11-24,neo4j,1778
 2026-11-24,fluentd-elasticsearch,1763
+2026-11-25,data-caterer,11430
+2026-11-25,duckdb,448892
+2026-11-25,dse-server,1917
+2026-11-25,dse-base,450
+2026-11-25,unitycatalog,12583
+2026-11-25,maestro,1886
+2026-11-25,polaris,1763
+2026-11-25,neo4j,1787
+2026-11-25,fluentd-elasticsearch,1764
